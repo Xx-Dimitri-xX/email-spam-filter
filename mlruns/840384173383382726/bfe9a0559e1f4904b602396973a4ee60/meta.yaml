@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dimit/5MLDEPLOY/mlruns/840384173383382726/bfe9a0559e1f4904b602396973a4ee60/artifacts
+end_time: 1731084443197
+entry_point_name: ''
+experiment_id: '840384173383382726'
+lifecycle_stage: active
+run_id: bfe9a0559e1f4904b602396973a4ee60
+run_name: polite-yak-949
+run_uuid: bfe9a0559e1f4904b602396973a4ee60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731084433509
+status: 3
+tags: []
+user_id: dimit

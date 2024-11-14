@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dimit/5MLDEPLOY/mlruns2/664894852774814137/d4927f653817419f8a6e3a645dd38983/artifacts
+end_time: 1731602753382
+entry_point_name: ''
+experiment_id: '664894852774814137'
+lifecycle_stage: active
+run_id: d4927f653817419f8a6e3a645dd38983
+run_name: incongruous-hen-660
+run_uuid: d4927f653817419f8a6e3a645dd38983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731602736795
+status: 3
+tags: []
+user_id: dimit

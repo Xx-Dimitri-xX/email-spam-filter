@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dimit/5MLDEPLOY/mlruns/840384173383382726/e38bb020509247179a94cfa2a6728c35/artifacts
+end_time: 1731083577636
+entry_point_name: ''
+experiment_id: '840384173383382726'
+lifecycle_stage: active
+run_id: e38bb020509247179a94cfa2a6728c35
+run_name: magnificent-skink-22
+run_uuid: e38bb020509247179a94cfa2a6728c35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731083566032
+status: 3
+tags: []
+user_id: dimit

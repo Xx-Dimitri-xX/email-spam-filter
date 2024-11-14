@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dimit/5MLDEPLOY/mlruns/840384173383382726/57f5e1e0c70746d2b3cc05c77eb1883c/artifacts
+end_time: 1731084902516
+entry_point_name: ''
+experiment_id: '840384173383382726'
+lifecycle_stage: active
+run_id: 57f5e1e0c70746d2b3cc05c77eb1883c
+run_name: victorious-smelt-453
+run_uuid: 57f5e1e0c70746d2b3cc05c77eb1883c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731084891863
+status: 3
+tags: []
+user_id: dimit
